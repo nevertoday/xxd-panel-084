@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 084
+# 🦁 XXD Panel 084｜点描と線構成の手帳
 
 ### 幾何学的な細線と点描で写真を静かな都市随筆へ
 

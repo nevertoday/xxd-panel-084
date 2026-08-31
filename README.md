@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 084
+# 🦁 XXD Panel 084｜点描线构志
 
 ### 用几何细线与点描密度，把照片提炼成安静的城市随笔
 

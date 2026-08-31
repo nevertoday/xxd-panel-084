@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 084
+# 🦁 XXD Panel 084｜Stipple-and-Line Journal
 
 ### Distil the photograph into quiet urban linework shaped by geometric guides and stippled air
 

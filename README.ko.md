@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 084
+# 🦁 XXD Panel 084｜점묘와 선 구성 저널
 
 ### 기하학적 세선과 점묘 밀도로 사진을 조용한 도시 수필로
 

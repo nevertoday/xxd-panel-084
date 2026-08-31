@@ -14,29 +14,36 @@
 
 </div>
 
-## Samples
-Verified samples (English intelligent copy):
+## Sample gallery
+
+**16:9 landscape left–right samples**
 
 | sample-05 | sample-06 |
 |---|---|
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
 
+**3:4 portrait top–bottom samples**
 
-Sample positions are reserved. Verifiable original works or extensions reviewed directly against the Panel 084 source brief will be shown here first; images from another numbered Panel and broken placeholders are never substituted.
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+
+`sample-01`–`sample-04` remain reserved for verifiable original release samples. The eight works above comprise four 16:9 landscape left–right samples and four 3:4 portrait top–bottom samples. Every work was generated independently by Panel 084 from its own original brief; no artwork from another numbered Panel is reused. The samples use intelligent English copy.
 
 <!-- xxd-human-intro:start -->
 ## What it solves
 
-Edge-tracing filters mechanically copy everything, while complete watercolour scenes often fill the background until subject, space, and editorial rhythm all become heavy.
+Complete depiction fills cities and scenes with incidental detail; heavy black outlines and computer filters remove air, light, depth, and independent-publishing restraint.
 
-**Panel 084** symbolises memory with an even-weight monoline system: open contours, broken edges, restrained wobble, and line subtraction keep only what gives the subject identity and feeling. Two to four vivid source colours become spot-ink lines; density, brightness, registration shift, and grain create a printed keepsake rather than a black-outline cartoon.
+**Panel 084** distils subject, architecture, roads, and spatial relationships with fine dark geometry, then uses density-based stippling to build atmosphere across sky, ground, distance, shadow, and light. Complex backgrounds are removed, leaving a clear focal point, broad negative space, and only a few source-derived colour accents.
 
 ### Best for
 
-- architecture, travel, and field observation built from forceful straight lines, turns, planes, and proportions;
-- an alive unfinished quality formed by exploratory repeats, breaks, offsets, and unresolved edges;
-- colour that comes from the photograph but remains sparse, transparent, and subordinate to ink and paper;
+- clarifying cities, architecture, roads, and spatial relationships through fine geometric lines and perspective guides;
+- expressing air, light, and depth through stippling density rather than filled texture;
+- using a restrained blue-grey, off-white, and warm-white system with only a few source-derived spot colours;
 - top-bottom, left-right, design-only, multi-ratio, wallpaper, and directory-batch delivery.
 
 ### Quick start
@@ -58,25 +65,25 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 
 | What you need to know | What this style gives you |
 |---|---|
-| **What you get** | A limited-colour personal keepsake poster with the atmosphere of a travel atlas, map, or architectural diagram |
-| **Recognisable signature** | Even-weight coloured lines, open contours, density hierarchy, slight print misregistration, and broad warm-white paper |
-| **How it respects the source** | It preserves defining identity, contour, pose, space, and narrative relationship; colour comes only from recognisable source hues |
+| **What you get** | A modern line poster resembling an urban essay, architectural sketch, or scene-structure drawing |
+| **Recognisable signature** | Fine geometric lines, clear leading lines, stippled density gradients, blue-grey and warm-white ground, and sparse spot colour |
+| **How it respects the source** | It preserves subject, silhouette, structure, pose, and spatial guidance; colour comes only from the source's most characterful hues |
 | **Where it works** | Art posters, covers, social content, design-only art, multiple ratios, and four-device wallpaper sets |
 <!-- xxd-panel-benefit:end -->
 
 ## Transformation logic
 
 ```text
-extract identity, contour, pose, and narrative relationship → symbolise memory with an even-weight monoline → simplify complex regions into repeated marks and density levels → extract 2–4 vivid source colours as spot-ink lines → add grain, registration shift, and uneven ink → compose asymmetrically around one core → let warm-white space and sparse handwritten notes carry the private narrative
+extract subject, structure, pose, and spatial guidance → reduce the scene to a fine geometric framework → establish perspective and leading lines → use stippling density for air, light, depth, and shadow → organise a restrained blue-grey and warm-white ground → add only a few source-derived spot-colour accents → place quiet editorial notes within the negative space
 ```
 
 ## Recognisable finished traits
 
-- Outer and inner lines keep near-equal visual weight: they describe shape and structure rather than realistic volume.
-- Architecture and objects use geometric frameworks; people, plants, animals, and natural forms use softer organic gestures.
-- Dense repeated marks aggregate complex areas while sparse lines release the background and preserve depth.
-- Coloured lines carry information directly; there is no default black outline plus coloured fill.
-- One clear visual core and asymmetric spacing guide the eye; warm-white space carries air, distance, pause, and emotion.
+- Fine verticals, horizontals, broken lines, curves, and perspective lines establish the spatial skeleton.
+- Dot density, not heavy shading, creates atmosphere, light, depth of field, and spatial hierarchy.
+- Roads, architecture, wires, trees, and boundaries form natural leading lines toward one clear focus.
+- Complex backgrounds are reduced to a few structural clues and broad breathing space.
+- Soft blue-grey and warm-white dominate; warm yellow, gold, or one source hue appears only as a restrained accent.
 
 All aesthetic constraints live only in the [canonical prompt](references/original-prompt/zh-CN.md). The Skill and runtime adapters resolve delivery variables. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-084-prompt.en.md)
 

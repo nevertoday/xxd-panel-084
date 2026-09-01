@@ -1,5 +1,3 @@
-<p align="center"><img src="./assets/banner.svg" alt="XXD Panel 084 项目横幅" width="1200"></p>
-
 <div align="center">
 
 # 🦁 XXD Panel 084｜点描线构志

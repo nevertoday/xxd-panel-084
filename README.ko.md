@@ -1,5 +1,3 @@
-<p align="center"><img src="./assets/banner.svg" alt="XXD Panel 084 프로젝트 배너" width="1200"></p>
-
 <div align="center">
 
 # 🦁 XXD Panel 084｜점묘와 선 구성 저널

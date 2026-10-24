@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-084
-description: "Create XXD Panel 084 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-084 or requests the exact Panel 084 style."
+description: "XXD Panel 084｜Stipple-and-Line Journal: distils the subject, buildings, roads and space of a photo into a minimal urban pen-and-ink drawing — thin black or dark lines in vertical, horizontal, folded, curved and perspective strokes with a slight hand wobble, using road curves, building edges, street lamps, wires or trees as leading lines — plus stippled dot texture whose density builds sky, ground, distance, tree shadow and light; a restrained palette of soft blue-grey, cream, light grey and warm white with a few warm yellow, gold or photo-derived spot colours on windows or lamps, large calm colour fields and whitespace, and a short title or tiny note in thin, quiet, slightly misprinted type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-084 or asks for line-and-stipple, minimal urban sketch, pointillist dot texture or architectural line drawing from a photo."
 ---
 
 # XXD Panel 084

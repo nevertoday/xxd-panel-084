@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-084"
-  short_description: "Create Panel 084 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-084; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "点描线构志：用几何细线搭城市骨架、用点的疏密画出空气和光，配一两处暖色点睛"
+  default_prompt: "Use $xxd-panel-084 to turn my photo into Stipple-and-Line Journal artwork."
 
 policy:
   allow_implicit_invocation: true

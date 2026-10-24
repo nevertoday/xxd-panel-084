@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 084｜Stipple-and-Line Journal: distils the subject, buildings, roads and space of a photo into a minimal urban pen-and-ink drawing — thin black or dark lines in vertical, horizontal, folded, curved and perspective strokes with a slight hand wobble, using road curves, building edges, street lamps, wires or trees as leading lines — plus stippled dot texture whose density builds sky, ground, distance, tree shadow and light; a restrained palette of soft blue-grey, cream, light grey and warm white with a few warm yellow, gold or photo-derived spot colours on windows or lamps, large calm colour fields and whitespace, and a short title or tiny note in thin, quiet, slightly misprinted type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-084 or asks for line-and-stipple, minimal urban sketch, pointillist dot texture or architectural line drawing from a photo.",
+  "short_description": "点描线构志：用几何细线搭城市骨架、用点的疏密画出空气和光，配一两处暖色点睛",
+  "zh-CN": {
+    "name": "点描线构志",
+    "tagline": "用几何细线和疏密不一的小点，把照片画成一篇安静的城市随笔。",
+    "look": "主体、建筑、道路和空间关系被提炼成黑色或深色细线，竖线、横线、折线、弧线和透视线搭起骨架，线略带手抖；道路弧线、楼的边线、路灯、电线或树会自然引着视线走。天空、地面、远景、树影和灯光用点描表现，点越密越深，越疏越亮，营造空气和景深。颜色克制，以柔和的蓝灰、米白、浅灰、暖白为主，只在窗户、路灯或局部细点上用一点暖黄、金色或照片里的强调色。复杂背景删去，留白安静；一行短标题或小注释用纤细、略带印刷误差的字体。",
+    "traits": ["极简城市线描", "透视引导线", "density stippling", "低刺激综合色", "spot color", "诗意留白"],
+    "good": [
+      "有透视和引导线的城市街景：一条弯路、有路灯的街道、电线下的小巷",
+      "傍晚或夜里亮着灯的建筑：亮窗的公寓楼、街角便利店、车站",
+      "结构清楚的城市元素：桥、楼梯、站台、一排行道树"
+    ],
+    "poor": [
+      "以人物表情或服装色彩为重点的照片：人像、街拍穿搭",
+      "色彩浓烈、想保留原色的照片：花田、彩色集市、霓虹灯牌",
+      "想要写实厚涂、完整水彩风景、粗黑轮廓或复杂纹理的需求"
+    ]
+  },
+  "en": {
+    "name": "Stipple-and-Line Journal",
+    "tagline": "Draws your photo as a quiet city sketch in fine geometric lines and dots of varying density.",
+    "look": "The subject, buildings, roads and space are distilled into thin black or dark lines, with vertical, horizontal, folded, curved and perspective strokes building the skeleton and a slight hand wobble; road curves, building edges, street lamps, wires or trees lead the eye. Sky, ground, distance, tree shadows and light are made with stippling, denser dots for darker areas and sparser ones for light, creating air and depth. The palette is restrained, mostly soft blue-grey, cream, light grey and warm white, with only a little warm yellow, gold or a colour from the photo on windows, lamps or a few dots. Busy background is removed and the white space stays calm, with a short title or small note in thin, slightly misprinted type.",
+    "traits": ["Minimal urban linework", "Perspective leading lines", "Density stippling", "Low-key palette", "Spot colour", "Poetic whitespace"],
+    "good": [
+      "City streets with perspective and leading lines: a curving road, a street with lamps, a lane under power lines",
+      "Buildings lit at dusk or night: an apartment block with glowing windows, a corner shop, a station",
+      "Clearly structured city elements: a bridge, stairs, a platform, a row of street trees"
+    ],
+    "poor": [
+      "Photos centred on faces or clothing colour: portraits, street-style outfits",
+      "Strongly coloured photos where you want to keep the colours: flower fields, colourful markets, neon signs",
+      "Requests for realistic thick painting, full watercolour landscapes, thick black outlines or complex textures"
+    ]
+  },
+  "ja": {
+    "name": "点描と線構成の手帳",
+    "tagline": "幾何学的な細い線と濃淡のある小さな点で、写真を静かな都市の随筆にします。",
+    "look": "主役、建物、道、空間の関係を黒や濃い色の細い線に絞り込み、縦線、横線、折れ線、弧、遠近の線で骨組みをつくります。線には少し手の揺れがあり、道のカーブ、建物の縁、街灯、電線、木が自然に視線を導きます。空、地面、遠景、木陰、灯りは点描で描き、点が密なほど暗く、疎なほど明るく、空気と奥行きを生みます。色は控えめで、柔らかな青灰、生成り、薄いグレー、温かな白が中心、窓や街灯、わずかな点にだけ暖かい黄、金色、写真から取ったアクセントカラーを置きます。込み入った背景は省いて余白は静かに保ち、短いタイトルや小さな注記を、細く少し印字のずれた書体で添えます。",
+    "traits": ["ミニマルな都市線画", "遠近の誘導線", "密度による点描", "刺激の少ない配色", "スポットカラー", "詩的な余白"],
+    "good": [
+      "遠近と誘導線のある街並み：曲がる道、街灯のある通り、電線の下の路地",
+      "夕暮れや夜に灯りのともる建物：窓の明るいマンション、街角のコンビニ、駅",
+      "構造のはっきりした都市の要素：橋、階段、ホーム、街路樹の並び"
+    ],
+    "poor": [
+      "表情や服の色が主役の写真：ポートレート、ストリートスナップのコーディネート",
+      "色が強くその色を残したい写真：花畑、カラフルな市場、ネオンの看板",
+      "写実的な厚塗り、背景まで塗った水彩風景、太い黒の輪郭、複雑な質感を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "점묘와 선 구성 저널",
+    "tagline": "기하학적인 가는 선과 밀도가 다른 작은 점으로 사진을 조용한 도시 수필로 그립니다.",
+    "look": "주인공, 건물, 길, 공간의 관계를 검거나 짙은 색의 가는 선으로 추려 내고, 세로선, 가로선, 꺾은선, 호, 투시선으로 뼈대를 세웁니다. 선에는 손떨림이 살짝 있고, 길의 곡선, 건물 모서리, 가로등, 전선, 나무가 자연스럽게 시선을 이끕니다. 하늘, 땅, 먼 풍경, 나무 그림자, 불빛은 점묘로 표현해 점이 촘촘할수록 어둡고 성길수록 밝아지며, 공기와 깊이가 생깁니다. 색은 절제되어 부드러운 청회색, 미색, 연회색, 따뜻한 흰색이 중심이고, 창문이나 가로등, 몇몇 점에만 따뜻한 노랑, 금색, 사진에서 가져온 강조색을 조금 씁니다. 복잡한 배경은 지우고 여백은 조용하게 두며, 짧은 제목이나 작은 메모를 가늘고 살짝 인쇄가 어긋난 서체로 붙입니다.",
+    "traits": ["미니멀 도시 선화", "투시 유도선", "밀도 점묘", "자극 적은 배색", "스폿 컬러", "시적인 여백"],
+    "good": [
+      "투시와 유도선이 있는 도시 거리: 굽은 길, 가로등이 선 거리, 전선 아래 골목",
+      "해 질 녘이나 밤에 불이 켜진 건물: 창이 밝은 아파트, 길모퉁이 편의점, 역",
+      "구조가 분명한 도시 요소: 다리, 계단, 플랫폼, 가로수 줄"
+    ],
+    "poor": [
+      "표정이나 옷 색이 중심인 사진: 인물 사진, 스트리트 패션 스냅",
+      "색이 강하고 그 색을 지키고 싶은 사진: 꽃밭, 알록달록한 시장, 네온 간판",
+      "사실적인 두꺼운 채색, 배경까지 칠한 수채 풍경, 굵은 검은 윤곽, 복잡한 질감을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "دفتر التنقيط والخط",
+    "tagline": "يرسم صورتك خاطرةً مدينية هادئة بخطوط هندسية رفيعة ونقاط متفاوتة الكثافة.",
+    "look": "يُختزل العنصر والمباني والطرق والمكان إلى خطوط رفيعة سوداء أو داكنة، تبني الهيكلَ بضربات عمودية وأفقية ومنكسرة ومنحنية وخطوط منظور، مع ارتعاش يد خفيف؛ وتقود منحنيات الطريق وحواف المباني وأعمدة الإنارة والأسلاك والأشجار العين بشكل طبيعي. تُرسم السماء والأرض والمسافات البعيدة وظلال الأشجار والضوء بالتنقيط، فالنقاط الأكثف للمناطق الأغمق والأخف للمضيئة، فيتولّد الهواء والعمق. الألوان متقشّفة، أغلبها أزرق رمادي ناعم وكريمي ورمادي فاتح وأبيض دافئ، ولا يظهر إلا قليل من الأصفر الدافئ أو الذهبي أو لون من الصورة على النوافذ أو المصابيح أو بضع نقاط. تُحذف الخلفية المزدحمة ويبقى الفراغ هادئاً، مع عنوان قصير أو ملاحظة صغيرة بحرف رفيع فيه انحرافات طباعية طفيفة.",
+    "traits": ["رسم مديني بسيط بالخط", "خطوط منظور موجِّهة", "تنقيط بالكثافة", "ألوان هادئة", "لون موضعي", "فراغ شاعري"],
+    "good": [
+      "شوارع مدينة فيها منظور وخطوط موجِّهة: طريق منحنٍ، شارع بأعمدة إنارة، زقاق تحت أسلاك الكهرباء",
+      "مبانٍ مضاءة عند الغسق أو ليلاً: عمارة نوافذها مضيئة، متجر على ناصية، محطة",
+      "عناصر مدينية واضحة البنية: جسر، درج، رصيف محطة، صف من أشجار الشارع"
+    ],
+    "poor": [
+      "صور تتمحور حول الوجوه أو ألوان الملابس: صور شخصية، أزياء الشارع",
+      "صور قوية الألوان تريد الإبقاء عليها: حقول الزهور، الأسواق الملوّنة، لافتات النيون",
+      "طلب تلوين واقعي كثيف أو منظر مائي كامل أو خطوط سوداء سميكة أو ملامس معقدة"
+    ]
+  }
+}
